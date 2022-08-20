@@ -2,17 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-  margin: 0px;
-  color: #808285;  
-}
+
 
 .background{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1)),url('https://images.pexels.com/photos/6801872/pexels-photo-6801872.jpeg?auto=compress&cs=tinysrgb&w=1280&h=1024');
+  background-image:linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 1)),url('https://images.pexels.com/photos/6801872/pexels-photo-6801872.jpeg?auto=compress&cs=tinysrgb&w=1280&h=1024');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.background-home{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1)),url('https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&w=1280&h=1024');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .btn-custom{
   @apply px-6 py-4 

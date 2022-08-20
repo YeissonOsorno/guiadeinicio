@@ -31,7 +31,7 @@
                     <a className='text-red-700' target="_blank" rel="noreferrer" href='https://deriv.com/signup'> aquí.</a>  </p>                   
                 </div> 
                 <div className='relative rounded-full overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949552" title='2'  frameborder="0" allow="autoplay; fullscreen" allowfullscreen>                    
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/739764564" title='2'  frameborder="0" allow="autoplay; fullscreen" allowfullscreen>                    
                     </iframe>
                 </div>     
             </div>
@@ -40,7 +40,7 @@
             <div class="grid grid-rows-1 md:grid-rows-1 grid-cols-1 md:grid-cols-2 justify-between ">
                     
                 <div className='relative rounded-full overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949552" title='3' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/739764606" title='3' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
                     
                     </iframe>
                 </div>        
@@ -94,12 +94,12 @@
                     <p className='text-xl md:text-xl font-normal justify-center text-white p-2'>iPhone & Android  </p>
                 </div>     
                 <div className='relative rounded-full overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949515" title='8' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949622" title='8' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
                     
                     </iframe>
                 </div>        
                 <div className='relative rounded-xl overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740946785" title='9' allow="autoplay; fullscreen" allowfullscreen>
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740946807" title='9' allow="autoplay; fullscreen" allowfullscreen>
                         
                     </iframe>
                 </div> 
@@ -112,12 +112,12 @@
                     <p className='text-xl md:text-xl font-normal justify-center text-white p-2'>iPhone & Android  </p>
                 </div>     
                 <div className='relative rounded-full overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949515" title='10' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740949483" title='10' frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
                     
                     </iframe>
                 </div>        
                 <div className='relative rounded-xl overflow-auto p-8'>                
-                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740946785" title='11' allow="autoplay; fullscreen" allowfullscreen>
+                    <iframe className='w-full aspect-square rounded-lg shadow-lg' src="https://player.vimeo.com/video/740946745" title='11' allow="autoplay; fullscreen" allowfullscreen>
                         
                     </iframe>
                 </div> 
