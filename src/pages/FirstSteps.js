@@ -130,7 +130,7 @@
                     <p className='text-xl md:text-xl font-normal justify-center text-yellow-600 p-2'>presiona el boton de descarga  </p>
                 </div>     
                 <div className='sm:p-8  md:py-56 md:ml-36 '>                
-                    <a href='https://drive.google.com/file/d/1qZTqeyWuFaZHlEFCGug21gnU7RZqpeGN/view?usp=sharing' rel="noreferrer" target="_blank" 
+                    <a href='https://drive.google.com/file/d/1BZUcAblrhVCK_2eMTc4DqlCGPdDOeGoc/view?usp=sharing' rel="noreferrer" target="_blank" 
                     className='btn-custom btn-primary text-white   rounded-lg '>Descarga tú guia aquí</a>
                 </div>
             </div>
