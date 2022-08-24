@@ -10,11 +10,11 @@
                 <div className='py-5 ml-12 md:py-10 md:ml-10 justify-items-center'>
                     <p className=' flex text-3xl md:text-5xl font-extrabold md:font-bold text-white'>MIS PRIMEROS PASOS</p>                   
                 </div> 
-                <div className='relative  overflow-auto p-8'>                
+                {/* <div className='relative  overflow-auto p-8'>                
                     <iframe className='w-full aspect-auto rounded-lg shadow-lg' src="https://player.vimeo.com/video/734924234" title='1'  frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
                     
                     </iframe>
-                </div>      
+                </div>       */}
             </div>
 
             <div className='grid grid-rows-1 md:grid-rows-1 grid-cols-1 md:grid-cols-1 ml-5 md:ml-0'>
